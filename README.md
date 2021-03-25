@@ -1,1 +1,0 @@
-# Exercise1.2-OOP
